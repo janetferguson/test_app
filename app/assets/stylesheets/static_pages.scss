@@ -1,0 +1,29 @@
+// Place all the styles related to the static_pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+h1 {
+	font-family: 'Yesteryear', cursive;
+	font-size: 4em;
+	font-weight: 400;		
+}
+
+h2 {
+	font-family: 'Josefin Slab', serif;
+	color: red;
+	font-weight: 600;
+}
+
+h3 {
+	color: turquoise;
+}
+
+h1, h2, h3, p {
+	text-align: center;
+}
+
+img {
+	display: block;
+    margin-left: auto;
+    margin-right: auto
+}
